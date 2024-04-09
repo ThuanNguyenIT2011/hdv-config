@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Welcome to hdv accounts"
+  contactDetails:
+    name: "Quang"
+    email: "Quang@gmail.com"
+  onCallSupport:
+    - (9999) 999-999
+    - (9998) 999-999
